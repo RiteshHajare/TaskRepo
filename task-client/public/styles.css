@@ -1,0 +1,104 @@
+.navbar {
+    background-color: antiquewhite !important;
+}
+
+.greyDiv {
+    background-color: #e0e0e0;
+    height: 20rem;
+}
+
+.homepageBottom {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 4rem;
+}
+
+.div1 {
+    margin-top: 2rem;
+    width: 50%;
+}
+
+.div2 {
+    width: 50%;
+    margin-top: 2rem;
+    margin-left: 15rem;
+}
+
+.para {
+    width: 30rem;
+    margin-left: 4rem;
+    margin-top: 1.5rem;
+}
+
+.titlePara {
+    padding-top: 2rem;
+    padding-left: 4rem;
+    padding-bottom: 1rem;
+}
+
+.inputDiv {
+    display: flex;
+    font-size: x-large;
+    padding-left: 4rem;
+}
+
+.cls {
+    width: 13rem;
+    border-radius: 5px;
+    border: 7px solid orange;
+    text-align: center;
+}
+
+.cls4 {
+    background-color: rgb(129, 97, 245);
+}
+
+a {
+    color: inherit;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.para2 {
+    padding-left: 4rem;
+    padding-top: 3rem;
+}
+
+.form-group {
+    display: flex;
+    justify-content: center
+}
+
+.setForm {
+    position: relative;
+    top: 10rem;
+}
+
+.alert {
+    position: relative;
+    top: 15rem;
+    left: 33%;
+}
+
+.makeHidden {
+    visibility: hidden;
+}
+
+.makeVisible {
+
+    background-color: aquamarine;
+    padding: 1rem;
+    visibility: visible;
+    margin-top: 24rem;
+    width: 40%;
+    text-align: center;
+    margin-left: 35%;
+    margin-bottom: 4rem;
+}
